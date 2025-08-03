@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Home Lab </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating & Assigning New Users In Virtualized Active Directory](https://github.com/landonwatterson/ActiveDirectoryLab)
 
 
 <h2>📺 Popular YouTube Videos</h2>
